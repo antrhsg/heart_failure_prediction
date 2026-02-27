@@ -148,9 +148,3 @@ Then open `http://localhost:8501` in your browser.
 
 This project is for educational purposes only. It is not a medical device and should not be used for clinical diagnosis or treatment decisions. Always consult a licensed healthcare professional.
 
----
-
-## Author
-
-Built by [Your Name] as a personal data science project.  
-For questions or feedback, open an issue or reach out via [your contact/LinkedIn].
